@@ -29,3 +29,17 @@ h5{
 h6{
     color: bisque;
 }
+p{
+    color: red;
+    padding: 26px;
+
+}
+#first{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#second{
+    color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
